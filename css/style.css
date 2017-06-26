@@ -1,0 +1,36 @@
+html,body{
+    
+    margin:0 auto;
+    width:100%;
+
+}
+
+body{
+    
+    /*background-color:rgb(82, 86, 89);*/
+    margin:0 auto;
+    width:100%;
+    display:block;
+    font-family:'avenir light';
+    
+    
+}
+h1{
+    text-align:center;
+    text-shadow:1px 1px 1px blue;
+    color:green;
+    
+}
+p{
+    margin:0 auto;
+    color:#fff;
+    width:33%;
+    text-shadow:1px 1px 1px #000;
+    text-align:center;
+    background-color:gray;
+}
+one-time{
+    
+    background-color:orange;S
+    width:100%;
+}
